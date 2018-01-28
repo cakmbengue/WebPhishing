@@ -26,6 +26,7 @@ Technologies
 ============
 * PHP
 * JavaScript
+* CSS
 
 Installation
 ============
