@@ -30,21 +30,26 @@ Technologies
 
 Installation
 ============
-Télécharger l'application Web Phishing à partir du lien suivant : 
+1. Télécharger puis décompresser l'application Web Phishing à partir du lien suivant : 
 
 ```
 https://github.com/cakmbengue/web-phishing/archive/master.zip
 ```
 
-Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'attaquant à la ligne 12 (variable $own) comme l'indique la capture suivante:
+2. Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'attaquant à la ligne 12 (variable $own) comme l'indique la capture suivante:
 
 ![example_1](https://github.com/cakmbengue/web-phishing/blob/master/screen/screen1.png)
 
-Renommer le dossier Web Phishing selon le nom de votre système puis le déployer dans un hébergement standards :
+3. Renommer le dossier Web Phishing selon le nom de votre système puis le déployer dans un hébergement standards :
 
 * Windows ou linux 
 * Apache
 * PHP
+
+4. Tester l'url de l'application
+```
+ADRESSE-SERVEUR/web-phishing/index.php
+```
 
 Usage
 =====
