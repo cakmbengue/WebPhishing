@@ -52,6 +52,6 @@ Exemple
 =======
 Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer (par email) les informations confidentielles de l'utilisateur/victime. Exemple de lien à cacher derrière le lien :
 ```
-http://github.com/web-phishing/index.php?email=commercial@senegalais.sn
+http://www.dakarhacking.com/web-phishing/index.php?email=commercial@senegalais.sn
 
 ```
