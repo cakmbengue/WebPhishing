@@ -5,7 +5,7 @@ Web Phishing
 Information
 ===========
 ```
-Email information Gathering (EiG)
+Système de Phishing (Web Phishing)
 
 @author: Cheikh A. Khadre MBENGUE
 
