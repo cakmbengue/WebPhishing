@@ -24,15 +24,11 @@ L'utilisation de Web Phishing pour attaquer des cibles sans consentement mutuel 
 
 Technologies
 ============
-
 * PHP
 * JavaScript
 
-...
-
 Installation
 ============
-
 ```
 Déployer le dossier web-phishing dans un hébergement standards :
 
@@ -53,7 +49,6 @@ http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAIN.EXT
 
 Exemple
 =======
-
 Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer les informations confidentielles de l'utilisateur/victime. Exemple de lien à cacher derrière le lien :
 ```
 http://github.com/web-phishing/index.php?email=commercial@senegalais.sn
