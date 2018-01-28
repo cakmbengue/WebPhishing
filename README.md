@@ -31,7 +31,7 @@ Installation
 ============
 Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'attaquant à la ligne 12 (variable $own) comme l'indique la capture ci-dessous.
 
-![example_1](https://github.com/cakmbengue/eig-tool/blob/master/screen/screen1.png)
+![example_1](https://github.com/cakmbengue/web-phishing/blob/master/screen/screen1.png)
 
 Déployer le dossier web-phishing dans un hébergement standards :
 
