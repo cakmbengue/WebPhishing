@@ -11,7 +11,7 @@ Système de Phishing (Web Phishing)
 
 @location: Dakar (Senegal)
 
-@Web-Phishing: open source, évolutif...
+@Web-Phishing: open source, adaptable...
 ```
 
 Description
@@ -27,6 +27,7 @@ Technologies
 
 * PHP
 * JavaScript
+
 ...
 
 Installation
@@ -45,12 +46,16 @@ Usage
 =====
 Web Phishing propose une interface Web avec un formulaire à remplir par la l'utilisateur/victime. Web Phishing envoie la saisie de la victile par l'email (email de l'attaquant). 
 
-Cas pratique :
-
-Exemple, embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer les informations confidentielles de l'utilisateur/victime.
-
-Lien à cacher derrière le lien :
 ```
-http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAIN.COM
+http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAIN.EXT
+
+```
+
+Exemple
+=======
+
+Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer les informations confidentielles de l'utilisateur/victime. Exemple de lien à cacher derrière le lien :
+```
+http://github.com/web-phishing/index.php?email=commercial@senegalais.sn
 
 ```
