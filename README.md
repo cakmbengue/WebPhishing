@@ -31,13 +31,24 @@ Installation
 ============
 
 ```
-...
+Déployer le dossier web-phishing dans un hébergement standards :
+
+* Windows ou linux 
+* Apache
+* PHP
+
 ```
 
 Usage
 =====
+Web Phishing propose une interface Web avec un formulaire à remplir par la l'utilisateur/victime. Web Phishing envoie la saisie de la victile par l'email (email de l'attaquant). 
 
+Cas pratique :
+
+Exemple, embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer les informations confidentielles de l'utilisateur/victime.
+
+Lien à cacher derrière le lien :
 ```
-...
+http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAIN.COM
 
 ```
