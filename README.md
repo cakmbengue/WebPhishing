@@ -53,7 +53,7 @@ ADRESSE-SERVEUR/nouveau-nom/index.php
 
 Usage
 =====
-Web Phishing propose une interface Web avec un formulaire à remplir par la l'utilisateur/victime. Web Phishing envoie la saisie de la victile par l'email (email de l'attaquant). 
+Web Phishing propose une interface Web avec un formulaire à remplir par la l'utilisateur/victime. Web Phishing envoie la saisie de la victime par l'email (email de l'attaquant). 
 
 ```
 http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAINE.EXT
