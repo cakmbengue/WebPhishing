@@ -87,10 +87,6 @@ rcmail.gui_object('message', 'message');
   <!-- End Table 2-->
           </td>
 
-
-
-
-
 </tr>
         <tr>
           <td>
@@ -135,10 +131,6 @@ $(document).ready(function(){
 });
 
 </script>
-
-
-
-
 
 <script type="text/javascript">
 
