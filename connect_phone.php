@@ -169,10 +169,6 @@ $(document).ready(function(){
 
 </script>
 
-
-
-
-
 <script type="text/javascript">
 
 jQuery.extend(jQuery.ui.dialog.prototype.options.position, {
