@@ -61,7 +61,7 @@ http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAINE.EXT
 
 Exemple
 =======
-Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer (par email) les informations confidentielles de l'utilisateur/victime. 
+Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à le suivre (vers le système Web Phishing) afin de vérifier son compte : le but étant de récupérer (par email) les informations confidentielles de l'utilisateur/victime. 
 
 Lien à cacher derrière le lien :
 ```
