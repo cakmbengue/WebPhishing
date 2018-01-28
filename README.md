@@ -1,4 +1,4 @@
-s-Phishing
+Web-Phishing
 ==========
 
 
@@ -20,7 +20,7 @@ Description
 
 Avertissement
 =============
-L'utilisation de s-Phishing pour attaquer des cibles sans consentement mutuel préalable est illégale. Le développeur n'est pas responsable de tout dommage causé par s-Phishing.
+L'utilisation de Web-Phishing pour attaquer des cibles sans consentement mutuel préalable est illégale. Le développeur n'est pas responsable de tout dommage causé par Web-Phishing.
 
 Prérequis
 =========
