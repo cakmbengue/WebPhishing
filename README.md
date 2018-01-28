@@ -48,7 +48,7 @@ https://github.com/cakmbengue/web-phishing/archive/master.zip
 
 4. Tester l'url de l'application
 ```
-ADRESSE-SERVEUR/web-phishing/index.php
+ADRESSE-SERVEUR/nouveau-nom/index.php
 ```
 
 Usage
