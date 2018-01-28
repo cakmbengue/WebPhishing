@@ -46,7 +46,6 @@ Web Phishing propose une interface Web avec un formulaire à remplir par la l'ut
 
 ```
 http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAIN.EXT
-
 ```
 
 Exemple
@@ -56,5 +55,4 @@ Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail 
 Lien à cacher derrière le lien :
 ```
 http://www.dakarhacking.com/web-phishing/index.php?email=commercial@senegalais.sn
-
 ```
