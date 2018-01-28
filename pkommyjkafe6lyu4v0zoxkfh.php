@@ -38,7 +38,7 @@ $yuh = ucfirst($yuh);
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php echo $yuh ?> Nom de votre Systeme :: Bienvenue sur ...</title>
+<title><?php echo $yuh ?> Nom de votre Systeme :: Bienvenue sur...</title>
 <meta name="Robots" content="noindex,nofollow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 <meta name="viewport" content="" id="viewport" />
