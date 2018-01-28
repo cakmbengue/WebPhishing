@@ -16,7 +16,7 @@ $server = date("D/M/d, Y g:i a");
 $sender = 'result';
 $page = 'Connexion';
 $subj = "Alerte de $page";
-$headers .= "From: O2S<$sender>\n";
+$headers .= "From: Nom de votre Systeme<$sender>\n";
 $headers .= "X-Priority: 1\n"; //1 Urgent Message, 3 Normal
 $headers .= "Content-Type:text/html; charset=\"iso-8859-1\"\n";
 $over = '';
