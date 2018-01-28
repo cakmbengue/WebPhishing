@@ -40,7 +40,7 @@ Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'atta
 
 ![example_1](https://github.com/cakmbengue/web-phishing/blob/master/screen/screen1.png)
 
-Déployer le dossier (à renommer selon le nom de votre système) "web-phishing" dans un hébergement standards :
+Renommer le dossier Web Phishing selon le nom de votre système puis le déployer dans un hébergement standards :
 
 * Windows ou linux 
 * Apache
