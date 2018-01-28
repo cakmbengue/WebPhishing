@@ -1,5 +1,5 @@
-Web-Phishing
-==========
+Web Phishing
+============
 
 
 Information
@@ -11,7 +11,7 @@ Email information Gathering (EiG)
 
 @location: Dakar (Senegal)
 
-@EiG-tool: open source, évolutif...
+@Web-Phishing: open source, évolutif...
 ```
 
 Description
@@ -20,7 +20,7 @@ Description
 
 Avertissement
 =============
-L'utilisation de Web-Phishing pour attaquer des cibles sans consentement mutuel préalable est illégale. Le développeur n'est pas responsable de tout dommage causé par Web-Phishing.
+L'utilisation de Web Phishing pour attaquer des cibles sans consentement mutuel préalable est illégale. Le développeur n'est pas responsable de tout dommage causé par Web Phishing.
 
 Prérequis
 =========
