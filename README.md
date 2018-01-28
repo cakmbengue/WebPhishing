@@ -29,7 +29,7 @@ Technologies
 
 Installation
 ============
-Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'attaquant à la ligne 12 (variable $own) comme l'indique la capture ci-dessous.
+Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'attaquant à la ligne 12 (variable $own) comme l'indique la capture suivante:
 
 ![example_1](https://github.com/cakmbengue/web-phishing/blob/master/screen/screen1.png)
 
@@ -50,7 +50,7 @@ http://ADRESSE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAIN.EXT
 
 Exemple
 =======
-Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer les informations confidentielles de l'utilisateur/victime. Exemple de lien à cacher derrière le lien :
+Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail incite l'utilisateur/victime à suivre ce lien vers Web Phishing afin de vérifier son compte : le but étant de récupérer (par email) les informations confidentielles de l'utilisateur/victime. Exemple de lien à cacher derrière le lien :
 ```
 http://github.com/web-phishing/index.php?email=commercial@senegalais.sn
 
