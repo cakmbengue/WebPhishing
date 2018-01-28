@@ -22,10 +22,12 @@ Avertissement
 =============
 L'utilisation de Web Phishing pour attaquer des cibles sans consentement mutuel préalable est illégale. Le développeur n'est pas responsable de tout dommage causé par Web Phishing.
 
-Prérequis
-=========
+Technologies
+============
 
 * PHP
+* JavaScript
+...
 
 Installation
 ============
