@@ -33,7 +33,7 @@ Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'atta
 
 ![example_1](https://github.com/cakmbengue/web-phishing/blob/master/screen/screen1.png)
 
-Déployer le dossier web-phishing dans un hébergement standards :
+Déployer le dossier "web-phishing" téléchargé/cloné (en haut) dans un hébergement standards :
 
 * Windows ou linux 
 * Apache
