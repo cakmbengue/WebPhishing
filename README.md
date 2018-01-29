@@ -30,7 +30,7 @@ Technologies
 
 Installation
 ============
-1. Télécharger puis décompresser l'application Web Phishing à partir du lien suivant : 
+1. Télécharger puis décompresser l'application Web Phishing disponible à partir du lien suivant : 
 
 ```
 https://github.com/cakmbengue/web-phishing/archive/master.zip
