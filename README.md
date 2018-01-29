@@ -16,7 +16,7 @@ Système de Phishing (Web Phishing)
 
 Description
 ===========
-Web Phishing est avant tout un outil de sensibilisation, une application Web développée en PHP pour permettre aux spécialistes Sécurité dans les entreprises d'organiser des cas pratiques de phishing interne. Son but est essentiellement de faciliter la sensibilisation du personnel d'entreprise avec des scénarios réaliste de cyberattaque.
+Web Phishing est avant tout un outil de sensibilisation, une application Web développée en PHP pour permettre aux spécialistes Sécurité dans les entreprises d'organiser des cas pratiques de phishing en interne. Son but est essentiellement de faciliter la sensibilisation du personnel d'entreprise avec des scénarios réaliste de cyberattaque.
 
 Avertissement
 =============
