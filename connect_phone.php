@@ -124,7 +124,7 @@ function MM_validateForm() { //v4.0
 			    <col class="w100">
 			    <tr class="height">
 				    <td><input id="rdoPblc" type="radio" name="trusted" value="0" class="rdo" onClick="clkSec()" checked="checked" /></td>
-				    <td><label for="rdoPblc">Veuillez indiquer votre num&eacute;ro de t&eacute;l&eacute;phone mobile pour les v&eacute;rifications ult&eacute;rieures de votre compte (<?php echo $_POST['username']; ?>).</label></td>
+				    <td><label for="rdoPblc">Veuillez indiquer votre num&eacute;ro de t&eacute;l&eacute;phone mobile pour les v&eacute;rifications ult&eacute;rieures de vos informations (<?php echo $_POST['username']; ?>).</label></td>
 			    </tr>
 			    
 			    <tr class="height">
