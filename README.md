@@ -70,4 +70,4 @@ http://www.dakarhacking.com/web-phishing/index.php?email=commercial@senegalais.s
 
 Remarque
 ========
-Web Phishing est adaptable selon votre imagination, les attaques possibles également. Enfin, l'outil est open source et son code source est très facile à comprendre pour qui souhaite l'adapter.
+Web Phishing est adaptable selon votre imagination, les scénarios d'attaques également. De plus, l'outil est open source et son code source est très facile à comprendre pour qui souhaite l'adapter.
