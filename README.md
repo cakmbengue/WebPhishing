@@ -40,7 +40,7 @@ https://github.com/cakmbengue/web-phishing/archive/master.zip
 
 ![example_1](https://github.com/cakmbengue/web-phishing/blob/master/screen/screen1.png)
 
-3. Renommer le dossier Web Phishing selon le nom de votre système puis le déployer dans un hébergement standards :
+3. Renommer le dossier Web Phishing selon le nom de votre système puis le déployer dans un hébergement standard :
 
 * Windows ou linux 
 * Apache
