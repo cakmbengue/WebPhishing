@@ -58,7 +58,7 @@ Web Phishing propose une interface Web avec un formulaire à remplir par la l'ut
 Les tests peuvent se faire en ligne ou en local (avec des outils tels que WampServer)
 ```
 Test en ligne : http(ou https)://VOTRE-SERVEUR/web-phishing/index.php?email=ADRESSE-VICTIME@DOMAINE.EXT
-```
+
 Test en local : http://localhost/web-phishing/index.php?email=commercial@dakarhacking.com
 ```
 
