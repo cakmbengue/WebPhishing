@@ -106,7 +106,7 @@ function MM_validateForm() { //v4.0
 <div id="login-form">
 <div class="box-inner">
   <div  align="center"><br>
-        <span class="style1"><img src="FILES/favicon.ico" alt="" width="25" height="25"> <?php echo $yuh ?> :: Internal system</span>  </div>
+        <span class="style1"><img src="FILES/favicon.ico" alt="" width="25" height="25"> <?php echo $yuh ?> Internal system</span>  </div>
   <br>
   <!-- End Table 2-->
           </td>
