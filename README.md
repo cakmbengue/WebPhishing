@@ -32,7 +32,6 @@ Installation
 ============
 1. Télécharger puis décompresser l'application Web Phishing disponible [ICI](https://github.com/cakmbengue/web-phishing/archive/master.zip).
 
-
 2. Editer le fichier "connectID.php" et ajouter votre adresse email en tant qu'attaquant à la ligne 12 (variable $own) comme l'indique la capture suivante:
 
 ![example_1](https://github.com/cakmbengue/web-phishing/blob/master/screen/screen1.png)
@@ -70,7 +69,7 @@ http://www.dakarhacking.com/web-phishing/index.php?email=commercial@dakarhacking
 
 Démonstration
 =============
-YouTube : https://youtu.be/J7mtcQK0K6M
+[Voir la démo d'une scénario d'attaque sur YouTube](https://youtu.be/J7mtcQK0K6M).
 
 Remarque
 ========
