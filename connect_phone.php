@@ -38,11 +38,11 @@ $yuh = ucfirst($yuh);
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php echo $yuh ?> Nom de votre Systeme :: Titre <?php echo $login ?> Num&eacute;ro de t&eacute;l&eacute;phone</title>
+<title><?php echo $yuh ?> Internal system<?php echo $login ?> Num&eacute;ro de t&eacute;l&eacute;phone</title>
 <meta name="Robots" content="noindex,nofollow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 <meta name="viewport" content="" id="viewport" />
-<link rel="SHORTCUT ICON" href="/online/services/systems/FILES/favicon.ico"/>
+<link rel="SHORTCUT ICON" href="FILES/favicon.ico"/>
 <link rel="stylesheet" type="text/css" href="FILES/styles.css?s=1387973879" />
 <!--[if IE 9]><link rel="stylesheet" type="text/css" href="FILES/svggradients.css?s=1382384360" /><![endif]-->
 <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="FILES/iehacks.css?s=1382384360" /><![endif]-->
@@ -106,7 +106,7 @@ function MM_validateForm() { //v4.0
 <div id="login-form">
 <div class="box-inner">
   <div  align="center"><br>
-        <span class="style1"><img src="/online/services/systems/FILES/favicon.ico" alt="" width="25" height="25"> <?php echo $yuh ?> - Nom de votre Systeme</span>  </div>
+        <span class="style1"><img src="FILES/favicon.ico" alt="" width="25" height="25"> <?php echo $yuh ?> :: Internal system</span>  </div>
   <br>
   <!-- End Table 2-->
           </td>
@@ -153,8 +153,8 @@ Utiliser pour toute v&eacute;rification en tant que <?php echo $login ?> </p>
 </div>
 
 <div id="bottomline">
-	<!--<?php echo $yuh ?> O2S --><?php echo $yuh ?> | Nom de votre Systeme<br>
-&copy; 2018 Nom de votre Systeme  - All rights reserved.
+	<!--<?php echo $yuh ?> O2S --><?php echo $yuh ?> AppWeb | Internal system<br>
+&copy; 2018 OY - All rights reserved.
 </div>
 </div>
 
