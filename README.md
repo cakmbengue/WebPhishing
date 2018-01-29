@@ -65,7 +65,7 @@ Embarquer dans un "mail piégé" un lien sous forme de lien hypertexte. Le mail 
 
 Lien à cacher derrière le lien :
 ```
-http://www.dakarhacking.com/web-phishing/index.php?email=commercial@senegalais.sn
+http://www.dakarhacking.com/web-phishing/index.php?email=commercial@dakarhacking.com
 ```
 
 Remarque
