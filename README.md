@@ -67,3 +67,7 @@ Lien à cacher derrière le lien :
 ```
 http://www.dakarhacking.com/web-phishing/index.php?email=commercial@senegalais.sn
 ```
+
+Remarque
+========
+Web Phishing est adaptable selon votre imagination, les attaques possibles également. Enfin, l'outil est open source et son code source est très facile à comprendre pour qui souhaite l'adapter.
