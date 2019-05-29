@@ -5,7 +5,7 @@ Système ou application Web de Phishing
 Information
 ===========
 ```
-Système de Phishing (Web Phishing)
+Application  de Phishing (Web Phishing)
 
 @author: Cheikh A. Khadre MBENGUE
 
